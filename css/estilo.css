@@ -8,3 +8,8 @@ body{
     width: 1024px;
     margin: auto;
 }
+
+.header-top{
+    height: 50px;
+    background: #162028;
+}
