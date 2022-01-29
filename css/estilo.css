@@ -135,6 +135,9 @@ body{
     text-align: center;
 }
 
+.formclass{
+    margin: 0px auto;
+}
 footer{
     background: #0b171f;
     padding: 25px;
